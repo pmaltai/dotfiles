@@ -1,0 +1,8 @@
+Works|Works|tsserver-typescript
+import Tile|import { TimeLike$1 } from 'fs'|tsserver-typescript
+import Tie|import { TimerOptions$1 } from 'timers'|tsserver-typescript
+stati|staticmethod|pyright
+co|core|pyright
+dja|django|around
+dj|django|around
+impo|import|around
